@@ -1,6 +1,6 @@
 # Week 10: Priority Queues and Cost-Aware Search
 
-Read the [Reading material and integrated Assignment](docs/week10_reading_v22.pdf).
+Read the [Reading material and integrated Assignment](docs/week10_reading_v23.pdf).
 The complete runnable queue example is supplied, with no TODOs to complete first.
 
 ## 1. Purpose and files to edit
